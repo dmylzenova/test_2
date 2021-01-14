@@ -1,0 +1,5 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = ssh://d.mylzenova@rndbox2-spb.lab.just-ai.com/home/d.mylzenova/remote3/test_2/
+    ask_password = true
